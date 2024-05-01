@@ -1,9 +1,28 @@
 html{
-    background-color: black;
-    color: white;
+    background-color: #f8dfea;
+    
 }
 
+h1{
+    color: #883733;
+    background-color: white;
+}
 
+p{
+    color: #320f1f;
+}
+
+div{
+    background-color: red;
+    color: #fff;
+    width: 200PX;
+    height: 200px;
+    text-align: center;
+    border: 5px solid black;
+}
+a{
+    background-color: purple;
+}
 /* }
 Sintaxis CSS
 selectorEtiquetaHTML,Class, ID {
