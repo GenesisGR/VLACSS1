@@ -1,3 +1,4 @@
+/* }
 html{
     background-color: #f8dfea;
     
@@ -12,14 +13,7 @@ p{
     color: #320f1f;
 }
 
-div{
-    background-color: red;
-    color: #fff;
-    width: 200PX;
-    height: 200px;
-    text-align: center;
-    border: 5px solid black;
-}
+
 a{
     background-color: purple;
 }
@@ -31,3 +25,40 @@ selectorEtiquetaHTML,Class, ID {
     propiedad : valor;
 
  */
+
+ body{
+    background-color: blueviolet;
+ }
+
+ .caja1{
+    background-color: yellow;
+    color: green;
+    width: 250px;
+    height: 250px;
+    text-align: center;
+    border: 2px solid black;
+ }
+
+ .caja2{
+    background-color: white;
+    color: black;
+    width: 250px;
+    height: 250px;
+    text-align: center;
+    border: 2px solid black;
+    padding: 20px 10px 20px 10px;
+    padding: 20px 10px;
+    margin: 10px;
+    box-sizing: content-box;
+ }
+
+ .caja3{
+    background-color: white;
+    color: orange;
+    width: 250px;
+    height: 250px;
+    text-align: center;
+    border: 2px solid black;
+ }
+
+
